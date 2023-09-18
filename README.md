@@ -20,7 +20,7 @@ Follow these instructions to run the Number Guessing Game on your local machine.
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/Cyphersk21/OIBSIP.git
+    git clone https://github.com/Cyphersk21/Number-Guessing-Game.git
     ```
 
 2. Open a terminal and navigate to the project directory:
